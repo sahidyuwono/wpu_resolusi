@@ -2,5 +2,5 @@ WPU RESOLUSI
 - Konsisten membuat konten 1x seminggu
 - Membuat platform untuk pengelolaan file
 - Membuat forum diskusi
-- Membuat layanan chat online
+- Membuat fitur kuis
 - Membuat e-Books
