@@ -6,3 +6,4 @@ RENCANA WEB E-LEARNING
   * Company profile
   * E-commerce
 - Membuat video materi PHP Lanjutan
+  * Laravel
