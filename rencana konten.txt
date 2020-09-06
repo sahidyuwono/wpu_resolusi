@@ -1,6 +1,7 @@
 RENCANA WEB E-LEARNING
 - Membuat video materi HTML & CSS
 - Membuat video materi Bootstrap
+- Membuat fungsi struktur data dasar
 - Membuat video materi PHP Native
   * Company profile
   * E-commerce
